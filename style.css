@@ -1,1 +1,8 @@
-style.css
+*{
+  /* box-sizing: border-box; */
+  font-family:sans-serif;
+}
+
+.grandentrance{
+  text-align: center;
+}
