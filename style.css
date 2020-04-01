@@ -1,8 +1,34 @@
 *{
   /* box-sizing: border-box; */
-  font-family:sans-serif;
+  font-family:candara;
+}
+
+.hero{
+  background-color:  #666699;
+  color: white;
 }
 
 .grandentrance{
   text-align: center;
+}
+
+.linkbar{
+  text-align: center;
+  color: black;
+}
+
+.about{
+  color: white
+}
+
+.poems{
+  color: white
+}
+
+.content{
+  color: white
+}
+
+.shop{
+  color: white
 }
