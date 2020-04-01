@@ -20,6 +20,11 @@
 .about{
   color: white
 }
+.aboutit{
+  text-align: center;
+  background-color:  #666699;
+  color: white;
+}
 
 .poems{
   color: white
