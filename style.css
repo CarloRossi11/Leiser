@@ -4,6 +4,7 @@
 }
 
 .hero{
+  text-align: center;
   background-color:  #3B3B46;
   color: #4BC7F5;
 }
@@ -26,17 +27,9 @@ a:hover {
   color: black;
 }
 
-/*about section*/
-
 .about{
   color: white;
   text-decoration: none;
-}
-
-.aboutit{
-  text-align: center;
-  background-color:  #3B3B46;
-  color: #4BC7F5;
 }
 
 .poems{
@@ -52,6 +45,18 @@ a:hover {
 .shop{
   color: white;
   text-decoration: none;
+}
+/*about section*/
+
+.aboutit{
+  text-align: center;
+  background-color:  #3B3B46;
+  color: #4BC7F5;
+}
+
+.banter{
+  color: white;
+  text-align: center;
 }
 
 .emailink{
@@ -75,4 +80,20 @@ a:hover {
 .poemz{
   color: white;
   text-decoration: none;
+}
+
+/*content section*/
+
+.contento{
+  text-align: center;
+  background-color:  #3B3B46;
+  color: #4BC7F5;
+}
+
+/*shop section*/
+
+.tilyoudrop{
+  text-align: center;
+  background-color:  #3B3B46;
+  color: #4BC7F5;
 }
