@@ -4,8 +4,8 @@
 }
 
 .hero{
-  background-color:  #666699;
-  color: white;
+  background-color:  #3B3B46;
+  color: #4BC7F5;
 }
 
 .grandentrance{
@@ -13,7 +13,8 @@
 }
 
 .homies{
-  color: white;
+  color: #4BC7F5;
+  text-decoration: none;
 
 }
 
@@ -26,29 +27,41 @@
 
 .about{
   color: white;
+  text-decoration: none;
 }
 .aboutit{
   text-align: center;
-  background-color:  #666699;
-  color: white;
+  background-color:  #3B3B46;
+  color: #4BC7F5;
 }
 
 .poems{
-  color: white
+  color: white;
+  text-decoration: none;
 }
 
 .content{
-  color: white
+  color: white;
+  text-decoration: none;
 }
 
 .shop{
-  color: white
+  color: white;
+  text-decoration: none;
+}
+
+.emailink{
+  text-decoration: none;
+}
+
+.instalink{
+  text-decoration: none;
 }
 
 /*poems section*/
 
 .poemsbby{
   text-align: center;
-  background-color:  #666699;
-  color: white;
+  background-color:  #3B3B46;
+  color: #4BC7F5;
 }
