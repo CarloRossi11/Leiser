@@ -15,7 +15,10 @@
 .homies{
   color: #4BC7F5;
   text-decoration: none;
+}
 
+a:hover {
+  color: yellow;
 }
 
 .linkbar{
@@ -29,6 +32,7 @@
   color: white;
   text-decoration: none;
 }
+
 .aboutit{
   text-align: center;
   background-color:  #3B3B46;
@@ -51,10 +55,12 @@
 }
 
 .emailink{
+  color: white;
   text-decoration: none;
 }
 
 .instalink{
+  color: white;
   text-decoration: none;
 }
 
@@ -64,4 +70,9 @@
   text-align: center;
   background-color:  #3B3B46;
   color: #4BC7F5;
+}
+
+.poemz{
+  color: white;
+  text-decoration: none;
 }
