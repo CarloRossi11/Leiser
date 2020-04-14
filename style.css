@@ -12,13 +12,20 @@
   text-align: center;
 }
 
+.homies{
+  color: white;
+
+}
+
 .linkbar{
   text-align: center;
   color: black;
 }
 
+/*about section*/
+
 .about{
-  color: white
+  color: white;
 }
 .aboutit{
   text-align: center;
@@ -36,4 +43,12 @@
 
 .shop{
   color: white
+}
+
+/*poems section*/
+
+.poemsbby{
+  text-align: center;
+  background-color:  #666699;
+  color: white;
 }
