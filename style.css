@@ -1,8 +1,11 @@
 *{
   /* box-sizing: border-box; */
-  font-family:candara;
+  font-family:"Goudy Bookletter 1911", sans-serif;
 }
 
+a:hover {
+  color: #96816E;
+}
 .hero{
   text-align: center;
   background-color:  #3B3B46;
@@ -11,6 +14,14 @@
 
 .grandentrance{
   text-align: center;
+  background-color: #96816E;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+a.homies:hover {
+  color: #3B3B46 !important;
 }
 
 .homies{
@@ -18,13 +29,9 @@
   text-decoration: none;
 }
 
-a:hover {
-  color: yellow;
-}
-
 .linkbar{
   text-align: center;
-  color: black;
+  color: white;
 }
 
 .about{
@@ -57,6 +64,9 @@ a:hover {
 .banter{
   color: white;
   text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 .emailink{
