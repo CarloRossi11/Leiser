@@ -10,6 +10,7 @@ a:hover {
   text-align: center;
   background-color:  #3B3B46;
   color: #4BC7F5;
+
 }
 
 .grandentrance{
@@ -18,6 +19,10 @@ a:hover {
   width: 50%;
   margin-left: 25%;
   margin-right: 25%;
+  text-shadow: 2px 2px #3B3B46;
+  border-style: ridge;
+  border-color: #4BC7F5;
+  border-width: medium;
 }
 
 a.homies:hover {
@@ -32,6 +37,7 @@ a.homies:hover {
 .linkbar{
   text-align: center;
   color: white;
+  padding-top: 20px;
 }
 
 .about{
@@ -90,6 +96,10 @@ a.homies:hover {
 .poemz{
   color: white;
   text-decoration: none;
+}
+
+.poemlinx{
+  line-height: 200%;
 }
 
 /*content section*/
