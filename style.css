@@ -23,6 +23,7 @@ a:hover {
   border-style: ridge;
   border-color: #4BC7F5;
   border-width: medium;
+  border-radius: 20px;
 }
 
 @media (max-width:444px) {
@@ -107,7 +108,7 @@ a.homies:hover {
 }
 
 .iglogo{
-    width: 50px;
+  width: 50px;
 
 }
 
