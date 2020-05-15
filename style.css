@@ -119,6 +119,12 @@ a.homies:hover {
   line-height: 200%;
 }
 
+@media (max-width:380px) {
+  .glimpse{
+    font-size: 80%;
+  }
+}
+
 /*content section*/
 
 .contento{
