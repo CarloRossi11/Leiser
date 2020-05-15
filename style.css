@@ -75,14 +75,31 @@ a.homies:hover {
   margin-right: 15%;
 }
 
+.reach{
+  width: 200px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .emailink{
+  color: white;
+  text-decoration: none;
+  font-size: 125%;
+}
+
+.anotherdiv{
+  padding-top: 20px;
+}
+.instalink{
   color: white;
   text-decoration: none;
 }
 
-.instalink{
-  color: white;
-  text-decoration: none;
+.iglogo{
+    width: 50px;
+
 }
 
 /*poems section*/
