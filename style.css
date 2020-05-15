@@ -25,6 +25,15 @@ a:hover {
   border-width: medium;
 }
 
+@media (max-width:444px) {
+  h1{
+    font-size: 140%;
+  }
+  h2{
+    font-size: 120%;
+  }
+}
+
 a.homies:hover {
   color: #3B3B46 !important;
 }
@@ -121,7 +130,7 @@ a.homies:hover {
 
 @media (max-width:380px) {
   .glimpse{
-    font-size: 80%;
+    font-size: 83%;
   }
 }
 
